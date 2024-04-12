@@ -2,6 +2,9 @@
 
 I'm a passionate cybersecurity enthusiast and pentester, always eager to learn new things and continue my journey in the world of bug bounty hunting. 🐛🔍
 
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=4000&pause=1000&color=20BDF7&center=true&vCenter=true&width=600&lines=Passionate+about+Cybersecurity;Experienced+Pentester;Avid+Bug+Bounty+Hunter;Constantly+Learning+New+Things" alt="Typing SVG" /> </div>
+
+
 ### What I do
 
 - 🔒 Explore the latest cybersecurity trends and techniques
@@ -14,6 +17,13 @@ I'm a passionate cybersecurity enthusiast and pentester, always eager to learn n
 - 🚀 Staying up-to-date with the latest hacking tools and methodologies
 - 🌟 Improving my skills in web application security and network penetration testing
 - 🔧 Experimenting with new technologies and frameworks
+
+### 🎯 Interests
+- Penetration Testing
+- Web Application Security
+- Network Security
+- Vulnerability Research
+- Bug Bounty Programs
 
 ### Let's connect!
 
